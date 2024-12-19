@@ -1,0 +1,5 @@
+numpy==2.2.0
+rawpy==0.24.0
+pyexiv2==2.15.3
+scipy==1.14.1
+pydng==1.1.2

@@ -1,0 +1,13 @@
+{
+    "Make": "Nikon Corporation",
+    "Model": "NIKON D5300",
+    "CFA Pattern": "RGGB",
+    "AsShotNeutral": [0.5, 1.0, 0.5],
+    "BlackLevel": 600,
+    "WhiteLevel": 16383,
+    "ColorMatrix1": [
+        [0.679, -0.148, -0.073],
+        [-0.329, 1.089, 0.256],
+        [-0.013, 0.203, 0.738]
+    ]
+}

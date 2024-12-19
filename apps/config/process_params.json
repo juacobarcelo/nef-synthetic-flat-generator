@@ -1,0 +1,6 @@
+{
+    "method": "median",
+    "threshold": 0.1,
+    "median_filter_size": 3,
+    "gaussian_blur_sigma": 2.0
+}
