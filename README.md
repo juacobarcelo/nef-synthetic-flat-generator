@@ -1,5 +1,7 @@
 # Flat Synthetic Generation Tool
 
+## This is a work in progress. This repo does not have runnable code yet.
+
 ## Overview
 This project provides a two-part tool to process NEF (Nikon RAW) files for astrophotography, enabling the generation of synthetic flat frames in DNG format that are consistent with the pipeline used in RawTherapee. The tool also includes functionality to analyze metadata from NEF files, allowing for informed inclusion of metadata in the synthetic flat.
 

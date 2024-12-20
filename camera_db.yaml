@@ -1,0 +1,15 @@
+- camara:
+    -exiftool_properies:
+      - group: EXIF
+        Make: NIKON CORPORATION
+      - group: EXIF
+        Model: NIKON D5600
+    bayer_pattern:
+      - group: EXIF
+        name: CFAPattern
+    master_flat_metadata:
+      - group: EXIF
+        name: CFAPattern
+      - group: MakerNotes
+        name: WhiteBalance
+
